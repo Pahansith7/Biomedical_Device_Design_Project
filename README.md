@@ -11,4 +11,4 @@ solution in other countries. An insulin pump is a product consisting of a needle
 portable electronic device which can be refilled with insulin cartridges, designed to administer insulin periodically.
 Existing insulin pumps are highly advanced with real-time monitoring of blood glucose levels. And therefore, a very
 high price, ((over 1000 USD for a simple pump) is unaffordable for Sri Lankans. Therefore our target is to build a
-simpler insulin pump, which suits the needs and economy of Sri Lankan patients
+simpler insulin pump, which suits the needs and economy of Sri Lankan patients.
